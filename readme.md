@@ -1,4 +1,4 @@
-<pre># Pre-work - Calculator
+# Pre-work - Calculator
 
 Calculator is a tip calculator PHP page.
 
@@ -14,7 +14,7 @@ The following **required** functionality is complete:
 * [*] PHP code sets reasonable default values for the form.
 * [*] PHP code confirms the presence and correct format of submitted values.
 * [*] Page indicates any form errors which need to be fixed.
-* [ ] Submitted form values are retained when errors or results are shown.
+* [*] Submitted form values are retained when errors or results are shown.
 
 The following **optional** features are implemented:
 * [*] Add support for custom tip percentage
@@ -39,7 +39,7 @@ How to retained value after submit to php
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [lei wan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -52,5 +52,3 @@ How to retained value after submit to php
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-</pre>
